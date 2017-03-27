@@ -1,0 +1,18 @@
+[
+	{
+	   "user_name": "Mahbub  Ahmed", 
+  	   "password": "Admin1",
+	   "email": "ahmedmahbub@gmail.com"
+   	},
+
+	{
+	   "user_name": "first  User", 
+  	   "password": "FirstUser1",
+	   "email": "user1@gmail.com"
+   	},
+	{
+	   "user_name": "Second  User", 
+  	   "password": "SecondUser2",
+	   "email": "user2@gmail.com"
+   	}
+]
