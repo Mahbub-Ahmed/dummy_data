@@ -1,1 +1,12 @@
-
+[
+  {
+      "title": "Albuquerque, New Mexico",
+      "imageUrl": "albuquerque",
+      "details": "Each year, during the first week of October, New Mexico’s largest city hosts the Albuquerque International Balloon Fiesta. The festival, which is said to be the world’s most photographed event, features a choreographed launch of over 600 colorful hot-air balloons from a 78-acre launch field."
+  },
+  {
+      "title": "Grand Canyon, Arizona",
+      "imageUrl": "albuquerque",
+      "details": "One of the world's natural wonders, the iconic Grand Canyon draws oohs and aahs from visitors perched at the edge of its towering cliffs. Carved by the copper-colored Colorado River, the colorful rock layers record billions of years of history and hide many unique species."
+  }
+]
